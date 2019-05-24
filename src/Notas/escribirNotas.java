@@ -11,7 +11,6 @@ public class escribirNotas {
 		
 		Scanner entrada = new Scanner(System.in);
 		entrada.useDelimiter(";");
-		
 		System.out.println("Introduce un texto:");
 		String texto = entrada.next();
 		
